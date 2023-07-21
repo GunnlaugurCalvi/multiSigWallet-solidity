@@ -1,4 +1,3 @@
 node_modules/
 .gitkeep
-*/.gitkeep
 package-lock.json
